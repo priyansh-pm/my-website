@@ -3,7 +3,7 @@
 body {
     margin: 0;
     padding: 0;
-    overflow: auto;
+    overflow: hidden;
     background: #fff;
 }
 
@@ -23,7 +23,7 @@ body {
 #right-panel {
     right: 0;
     width: 50vw;
-    overflow: auto;
+    overflow: hidden;
 }
 
 .panel .content {
