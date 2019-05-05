@@ -10,7 +10,7 @@ body {
 .panel {
     height: 100vh;
     position: absolute;
-    top: 10;
+    top: 15;
     font-family: "Catamaran", sans-serif;
 }
 
